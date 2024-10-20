@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_03_cadastrar.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_03_cadastrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_pr_03_3_det_pedido.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\pr_03_3_det_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_09_2_perfil.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_09_2_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_pr_02_pedidos_home.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\pr_02_pedidos_home.xml"
+    },
+    {
+        "merged": "com.fatecosasco.zedamanga.app-debug-31:/layout_cl_09_1_perfil.xml.flat",
+        "source": "com.fatecosasco.zedamanga.app-main-33:/layout/cl_09_1_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_08_numero_pedido.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_08_numero_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_04_2_carrinho.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_04_2_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_09_1_perfil.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_09_1_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_10_historico_pedidos.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_10_historico_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_pr_04_2_perfil.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\pr_04_2_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_05_1_endereco.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_05_1_endereco.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_pr_03_2_det_pedido.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\pr_03_2_det_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_04_1_produtos.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_04_1_produtos.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_02_entrar_pr.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_02_entrar_pr.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_05_2_novo_endereco.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_05_2_novo_endereco.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_pr_04_1_perfil.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\pr_04_1_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_01_zm_pr.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_01_zm_pr.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_pr_03_1_det_pedido.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\pr_03_1_det_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_06_metodo_pagamento.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_06_metodo_pagamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\layout_cl_07_confirmacao_pedido.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\layout\\cl_07_confirmacao_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\drawable_manga.png.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\drawable\\manga.png"
+    },
+    {
+        "merged": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\fabio\\.gradle\\daemon\\8.7\\com.fatecosasco.zedamanga.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
