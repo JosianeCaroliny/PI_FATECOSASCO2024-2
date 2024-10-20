@@ -1,3 +1,5 @@
+import org.gradle.internal.impldep.com.amazonaws.PredefinedClientConfigurations.defaultConfig
+
 plugins {
     alias(libs.plugins.android.application)
 }
@@ -40,6 +42,6 @@ dependencies {
     implementation(libs.androidXCore)
     implementation(libs.kotlinStdLib)
     testImplementation(libs.junit)
-    androidTestImplementation(libs.ext.junit)
+    androidTestImplementation(libs.ext.jUnit)
     androidTestImplementation(libs.espresso.core)
 }
